@@ -6,7 +6,7 @@ Previously studying and working as a Software Developer and Tester, I have found
 
 You can find my developer github page here https://github.com/monamoe
 
-# Welcome to my Data Analysis github portoflio! 
+# Welcome to my Data Analysis github portfolio! 
 Here you can find my Data Analysis projects in which showcase the various technologies and skills I posses, and a few case studies in which I provide real world analysis and insights to drive business growth. 
 
 💼 Professional Experience:
@@ -40,18 +40,4 @@ Here you can find my Data Analysis projects in which showcase the various techno
 
 
 
-
-
-
-
-
-- 💻 
-- 🔭 I’m currently working on a few case studies to build my portfolio!
--  I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
