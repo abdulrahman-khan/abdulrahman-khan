@@ -3,7 +3,7 @@ Welcome to my Data Analyst github profile!
 
 I am a graduate from Sheridan College with strong analytical and programming skills. Experienced in data cleaning and visualization working within a dynamic data reporting environment using Oracle. I am Microsoft Power BI Data Analyst Associate Certified, skilled in a range of data analysis tools and technologies including SQL, Excel, Python, R, PowerBI and Oracle.
 
-Previously studying and working as a Software Developer and Tester, I have found my love for working with data, telling data stories and providing powerful insights to real world applications!
+With a background in Software Development and Testing, I have discovered my passion for working with data. I specialize in transforming complex data into compelling stories and actionable insights that drive real-world applications.
 
 You can find my developer github page here https://github.com/monamoe
 
