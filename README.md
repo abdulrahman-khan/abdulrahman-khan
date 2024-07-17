@@ -1,4 +1,5 @@
-## Hi there 👋 My name is Abdulrahman Khan! Welcome to my Data Analyst github profile!
+## Greetings! 👋 My name is Abdulrahman Khan! 
+Welcome to my Data Analyst github profile!
 
 I am a graduate from Sheridan College with strong analytical and programming skills. Experienced in data cleaning and visualization working within a dynamic data reporting environment using Oracle. I am Microsoft Power BI Data Analyst Associate Certified, skilled in a range of data analysis tools and technologies including SQL, Excel, Python, R, PowerBI and Oracle.
 
