@@ -1,14 +1,11 @@
-## Greetings! 👋 My name is Abdulrahman Khan! 
-Welcome to my Data Analyst github profile!
-
-I am a graduate from Sheridan College with strong analytical and programming skills. Experienced in data cleaning and visualization working within a dynamic data reporting environment using Oracle. I am Microsoft Power BI Data Analyst Associate Certified, skilled in a range of data analysis tools and technologies including SQL, Excel, Python, R, PowerBI and Oracle.
-
-With a background in Software Development and Testing, I have discovered my passion for working with data. I specialize in transforming complex data into compelling stories and actionable insights that drive real-world applications.
-
-You can find my developer github page here https://github.com/monamoe
+## Hello! 👋 
+My name is Abdulrahman Khan! You can find my developer github page here https://github.com/monamoe
 
 # Welcome to my Data Analysis github portfolio! 
 Here you can find my Data Analysis projects in which showcase the various technologies and skills I posses, and a few case studies in which I provide real world analysis and insights to drive business growth. 
+
+📚 Notable Projects:
+  - WIP
 
 💼 Professional Experience:
   - Previously worked as a Data Analyst
@@ -29,8 +26,6 @@ Here you can find my Data Analysis projects in which showcase the various techno
   - Experienced with Git for version control and collaboration
   - Familier with big data technologies such as Hadoop and Spark
 
-📚 Notable Projects:
-  - WIP
 
 🏆 Achievements:
   - Certified in Microsoft's PowerBI Data Analyst Associate
