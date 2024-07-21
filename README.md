@@ -1,7 +1,7 @@
 # Welcome to my Data Analysis github portfolio! 
 My name is Abdulrahman Khan! You can find my developer github page here https://github.com/monamoe
 
-Here you can find my Data Analysis projects in which showcase the various technologies and skills I posses, and a few case studies in which I provide real world analysis and insights to drive business growth. 
+Here you can explore my data analysis projects, which demonstrate my proficiency in various technologies and skills. Additionally, I have included several case studies that offer real-world analysis and insights aimed at driving business growth.
 
 📚 Notable Projects:
   - **TechGearPro E-commerce Case Study:** Developing product and market strategies to drive revenue by increasing sales. Using Excel, SQL, and PowerBI to analyze 80k+ transaction records. Built performance dashboards to provide actionable insights. Evaluated loyalty programs and uncovered opportunities to increase revenue across northwest regions by 30%
