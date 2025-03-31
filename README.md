@@ -1,32 +1,27 @@
-# Welcome to my Data Analysis github portfolio! 
-My name is Abdulrahman Khan! You can find my developer github page here https://github.com/monamoe
+# My name is Abdulrahman Khan!
+You can find my old profile here: https://github.com/monamoe
 
-Here you can explore my data analysis projects, which demonstrate my proficiency in various technologies and skills. Additionally, I have included several case studies that offer real-world analysis and insights aimed at driving business growth.
+I like building software solutions and enjoy working with data.
 
-📚 Notable Projects:
-  - **TechGearPro E-commerce Case Study:** Developing product and market strategies to drive revenue by increasing sales. Using Excel, SQL, and PowerBI to analyze 80k+ transaction records. Built performance dashboards to provide actionable insights. Evaluated loyalty programs and uncovered opportunities to increase revenue across northwest regions by 30%
-  - **BikeSales Data Analysis:** Performed data cleaning and analysis to uncover trends and insights in bike sales, identifying profitable customer demographics and developing strategies to maximize sales using Excel
-  - **ElectroNova Data Analysis:** Delivered a proof-of-concept solution addressing the company's data processing requirements by developing a robust system capable of storing and processing data for 500,000 housing units over 15 years. The system enables comprehensive data analysis across the entire dataset utilizing Hadoop, Hive, Flume, Spark and MySQL
-  - Data Cleaning and Analysis using various tools: Excel, SQL, PowerBI
-  - Creating Dashboards and Visualizations in Excel and PowerBI
-
-🛠️ Tools and Technologies:
-  - Proficient in SQL, Excel, Python
-  - Experienced with Git for version control and collaboration
-  - Familier with big data technologies such as Hadoop and Spark
-
-💼 Professional Experience:
-  - Previously worked as a Data Analyst
-  - Extracting, cleaning and loading data visualizations
-  - Streamlining various Oracle Reports into BI Publisher templates
-  - Working with clients across various industries to outline report functionality and design
-
-🔍 Data Analysis Expertise:
-  - Skilled in data cleaning, processing and Visualizations using SQL, Excel, PowerBI
-  - Proficient in SQL for database querying and data manipulation with experience in ETL applications
-
-🏆 Achievements:
+🛠️ Tools and Technologies
+  📊 Business Intelligence
+    - PowerBI, Excel
+    - Python, pandas, numpy, matplotlib, seaborn/plotly, Statistical Analysis (Scikitlearn)
+  ☁️ Cloud Technologies: 
+    - Azure: Data Factory, Azure SQL, Blob Storage/Data Lake, CosmosDB, Databricks, ExtraID (Active Directory), Azure Monitor
+    - AWS: EC2, Lambda, S3
+    - Google Firebase
+  💻 Software Development
+    - Application: Java, C#, Python Android Dev(Kotlin)
+    - Web: Reactjs, Django
+  👨‍💻 Data Engineering
+    - Spark (PySpark)
+    - Hadoop (HDFS, MapReduce)
+    - Databricks, Azure Data Factory, ETL Pipelines, API Requests, Web Scraping
+  
+🏆 Certifications
   - Certified in Microsoft's PowerBI Data Analyst Associate
+  - Certified in Microsoft's Azure Data Fundamentals
 
 📞 Contact:
   - LinkedIn - linkedin.com/in/abdulrahman-khan/
