@@ -1,6 +1,8 @@
 # Abdulrahman Khan ☕
+<p style="color:gray; font-style:italic;">𝒜𝓊𝓉𝒽𝑒𝓃𝓉𝒾𝒸𝒾𝓉𝓎-𝐼𝓃𝓉𝓇𝑜𝓈𝓅𝑒𝒸𝓉𝒾𝑜𝓃</p>
 
-Hello! I'm a software and data enthusiast who enjoys crafting smart solutions and making sense of messy data. I believe in introspection 
+
+Hello! I'm a software and data enthusiast who enjoys crafting smart solutions and making sense of messy data.
 You can find my old profile here: https://github.com/monamoe
 
 
