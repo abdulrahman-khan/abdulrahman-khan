@@ -3,6 +3,7 @@
 
 
 Hello! I'm a software and data enthusiast who enjoys crafting smart solutions and making sense of messy data.
+
 You can find my old profile here: https://github.com/monamoe
 
 
@@ -57,6 +58,7 @@ You can find my old profile here: https://github.com/monamoe
 
 ## Certifications
 Microsoft PL-300 : ![Power BI Badge](https://img.shields.io/badge/PowerBI-Data_Analyst_Associate-blue)
+
 Microsoft DP-900: ![Azure Fundamentals Badge](https://img.shields.io/badge/Azure-Fundamentals-blue)
 
 ## Contact
