@@ -3,7 +3,7 @@ Software and data enthusiast.
 
 #### Links:
 
-- **Portfolio:** [abdulrahman-khan.github.io/Portfolio](https://abdulrahman-khan.github.io/Portfolio/)
+- **Personal Site:** [monamoe.dev](https://monamoe.dev/)
 - **Previous Work:** [github.com/monamoe](https://github.com/monamoe)
 - **LinkedIn:** [in/abdulrahman-khan/](https://www.linkedin.com/in/abdulrahman-khan/)
 
