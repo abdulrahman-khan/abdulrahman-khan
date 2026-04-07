@@ -1,16 +1,21 @@
-## Hi there 👋
+### Hello!
 
-<!--
-**abdulrahman-khan/abdulrahman-khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[website](https://monamoe.dev) · [LinkedIn](https://linkedin.com/in/abdulrahman-khan) · [dev profile](https://github.com/monamoe) · [Kaggle](https://www.kaggle.com/lordfireriser)
 
-Here are some ideas to get you started:
+**Previously:**
+- Data Analyst @ Lululemon Athletica
+- Data Engineer @ Interalo
+- Data Programming Analyst @ S&C Electric Canada
+- Systems Analyst (ETL Testing) @ Ontario Public Service (Ministry of Natural Resources)
+- Backend Engineer @ IServeCorp (TradeXPod)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Projects:**
+- **[ffXIV Party Finder GCP Data Warehouse](https://github.com/abdulrahman-khan/ff14-partyfinder-analytics)** - Production-grade medallion data warehouse on GCP featuring automated web scraping with Cloud Run, Terraform IaC, Dataform incremental transformations, and hourly analytics on duty popularity across regions.
+- **[Web Events Ingestion & Analytics](https://github.com/abdulrahman-khan/Real-Time-Web-Events-Pipeline)** - Data streaming pipeline ingesting web traffic from Kafka producers and processing with Apache Flink
+- **[ElectroNova](https://github.com/abdulrahman-khan/ImplementingBigData_ElectroNova)** - MapReduce, Spark analytics, and Sqoop MySQL integration for housing smart meter data analysis
+- **[Spark Analysis & Functional Testing](https://github.com/abdulrahman-khan/Spark-Analysis-and-Functional-Testing)** - Spark data pipelines with SCD transformations, Iceberg storage, and unit testing via Chispa
+- **[DataPipelinesSQL](https://github.com/abdulrahman-khan/DataPipelinesSQL)** - Advanced SQL pipeline implementations covering modern data engineering design patterns
+- **[Commerce Solutions](https://github.com/abdulrahman-khan/CommerceSolutions-TechStackShowcase)** - End-to-end data pipeline and workflows across the Microsoft stack (SQL Server, SSRS, PowerBI, C#)
+- **[Parsio](https://github.com/abdulrahman-khan/Parsio)** - Job application tracker + AI job parsing
+- **[Video Game REST API](https://github.com/abdulrahman-khan/Video-Game-REST-API)** - C# REST API with JWT auth, Entity Framework, and SQL Server database
+- **[Mississauga Library Booker](https://github.com/abdulrahman-khan/Mississauga-Library-Activity-Booker)** - Activity (room) booking web application for the Mississauga library system
