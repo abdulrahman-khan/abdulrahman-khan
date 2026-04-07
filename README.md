@@ -10,7 +10,7 @@
 - Backend Engineer @ IServeCorp (TradeXPod)
 
 **Projects:**
-- **[ffXIV Party Finder GCP Data Warehouse](https://github.com/abdulrahman-khan/ff14-partyfinder-analytics)** - Production-grade medallion data warehouse on GCP featuring automated web scraping with Cloud Run, Terraform IaC, Dataform incremental transformations, and hourly analytics on duty popularity across regions.
+- **[FFXIV Party Finder GCP Data Warehouse](https://github.com/abdulrahman-khan/ff14-partyfinder-analytics)** - Production-grade medallion data warehouse on GCP featuring automated web scraping with Cloud Run, Terraform IaC, Dataform incremental transformations, and hourly analytics on duty popularity across regions.
 - **[Web Events Ingestion & Analytics](https://github.com/abdulrahman-khan/Real-Time-Web-Events-Pipeline)** - Data streaming pipeline ingesting web traffic from Kafka producers and processing with Apache Flink
 - **[ElectroNova](https://github.com/abdulrahman-khan/ImplementingBigData_ElectroNova)** - MapReduce, Spark analytics, and Sqoop MySQL integration for housing smart meter data analysis
 - **[Spark Analysis & Functional Testing](https://github.com/abdulrahman-khan/Spark-Analysis-and-Functional-Testing)** - Spark data pipelines with SCD transformations, Iceberg storage, and unit testing via Chispa
