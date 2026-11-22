@@ -2,7 +2,7 @@
 
 background in data engineering, currently studying cybersecurity
 
-[website](https://monamoe.dev) · [LinkedIn](https://linkedin.com/in/abdulrahman-khan) · [dev profile](https://github.com/monamoe) · [Kaggle](https://www.kaggle.com/lordfireriser)
+[website](https://monamoe.dev) · [LinkedIn](https://linkedin.com/in/abdulrahman-khan) · [dev profile](https://github.com/monamoe) · [Kaggle](https://www.kaggle.com/lordfireriser) · [Hugging Face](https://huggingface.co/monamoe)
 
 **Previously:**
 - Applied AI Engineer @ Sheridan College - Centre for Applied AI 
